@@ -11,7 +11,9 @@ this is a responsive HTML/CSS template
 
 ## Preview
 
+![Screenshot 1](screenshotstemp1/hometemp1.png)
 
+![Screenshot 1](screenshotstemp1/porttemp1.png)
 
 ## Usage
 

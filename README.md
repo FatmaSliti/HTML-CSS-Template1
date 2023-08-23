@@ -9,7 +9,7 @@ this is a responsive HTML/CSS template
 - Easy to customize and extend with your own content.
 - Well-structured HTML and CSS code for maintainability.
 
-## Preview
+## some screenshots
 
 ![Screenshot 1](screenshotstemp1/hometemp1.png)
 
